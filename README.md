@@ -1,2 +1,5 @@
 # ArvoreBPlus
-Estrutura de dados utilizando Árvore B+
+
+Este programa armazena dados de livros e autores em uma estrutura utilizando Arvore B+
+
+💻 Este projeto foi desenvolvido em C.
